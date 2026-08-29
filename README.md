@@ -1,1 +1,2 @@
 # commit-boost
+1
